@@ -1,2 +1,2 @@
 # GeoPyTermGUILibrary
-(The name needs some work)
+Still a WIP
